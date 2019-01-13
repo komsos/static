@@ -1,0 +1,117 @@
+p, ul, ol {
+		margin-bottom: 20px
+}
+
+.page .blog-featured-img {
+		margin-bottom: 20px
+}
+
+img.custom-logo {
+    height: 50px
+}
+
+.sidebar form {
+    padding: 23px
+}
+
+.ecae-button {
+		margin-top: 15px;
+    margin-bottom: 10px;
+		margin-left: 13px;
+		padding: 10px 0
+}
+
+.ecae-button a {
+    background: #6d3e24;
+	color: #fff!important;
+    padding: 5px;
+    border-radius: 3px
+}
+
+.page-title-section .overlay, .entry-meta .entry-date > a, .hc_scrollup, form.search-form input.search-submit, input[type="submit"], .woocommerce-product-search input[type="submit"] {
+		background-color: #6d3e24;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+		background-color: #6d3e24;
+		color: #fff!important
+}
+
+table a, table a:hover, table a:focus, a, a:hover, a:focus, dl dd a, dl dd a:hover, dl dd a:focus, .txt-pink, .entry-header .entry-title > a:hover, .entry-header .entry-title > a:focus, .entry-meta a:hover, .entry-meta a:focus {
+		color: #6d3e24
+}
+
+.blogdetail-btn, .blogdetail-btn a {
+	box-shadow: 0 3px 0 0 #562d17
+}
+
+.widget_archive li:before, .widget_categories li:before, .widget_links li:before, .widget_meta li:before, .widget_nav_menu li:before, .widget_pages li:before, .widget_recent_comments li:before, .widget_recent_entries li:before, .navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:focus, .navbar .navbar-nav > .open > a,
+.navbar .navbar-nav > .open > a:hover,
+.navbar .navbar-nav > .open > a:focus, .author-description p:before, .navbar-default .navbar-nav .dropdown-menu > .active > a, .navbar-default .navbar-nav .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .dropdown-menu > .active > a:focus, .navbar .navbar-nav > .open > a, .navbar .navbar-nav > .open > a:hover, .navbar .navbar-nav > .open > a:focus, .navbar-custom .navbar-nav .open .dropdown-menu>.active>a,.navbar-custom .navbar-nav .open .dropdown-menu>.active>a:hover,.navbar-custom .navbar-nav .open .dropdown-menu>.active>a:focus  {
+		color: #b36b43
+}
+
+.widget_archive a:hover, .widget_categories a:hover, .widget_links a:hover, 
+.widget_meta a:hover, .widget_nav_menu a:hover, .widget_pages a:hover, 
+.widget_recent_comments a:hover, .widget_recent_entries a:hover {
+		color: #b36b43!important
+}
+
+.sidebar .section-header, .site-footer, .tagcloud a:hover {
+		border-color: #b36b43
+}
+
+.navbar .navbar-nav .dropdown-menu {
+		border-top: 2px solid #b36b43;
+		border-bottom: 2px solid #b36b43	
+}
+
+.header-sidebar .section-header span, .footer-sidebar .section-header span, .slide-btn-sm:before, .slide-btn-sm:after, .widget-separator span, .tagcloud a:hover {
+		background-color: #b36b43
+}
+
+.service-section .post:hover {
+		border-top: 3px solid #b36b43
+}
+
+.yrc-item-open .yrc-item-meta {
+    padding: 10px 0px 20px
+}
+
+.yrc-item-title {
+    font-size: 1em!important;
+    font-weight: 600
+}
+
+.textcenter {
+		text-align: center
+}
+
+.rounded img {
+		border-radius: 50%
+}
+
+a.OneSignal-prompt {
+		color: #9595a0
+}
+blockquote {
+	  border-left: 5px solid #6d3e24;
+}
+
+@media (min-width: 1100px) {
+	.navbar-custom .navbar-nav>.active>a {
+		background-color: #6d3e24;
+    }
+	
+	.navbar-custom .navbar-nav>.active>a, .navbar-custom .navbar-nav>.active>a:hover, .navbar-custom .navbar-nav>.active>a:focus {
+		color: #fff;
+		background-color: #6d3e24;
+	}
+}
+
+@media (max-width: 1100px) and (min-width: 100px) {
+    .navbar .navbar-nav > .active > a, .navbar .navbar-nav > .active > a:hover, .navbar .navbar-nav > .active > a:focus {
+        color: #b36b43;
+    }
+}
