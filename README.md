@@ -1,0 +1,2 @@
+# static
+Komsos Static
