@@ -10,7 +10,7 @@ img.custom-logo {
     height: 50px
 }
 
-.sidebar form {
+.sidebar form, .sidebar .widget .success {
     padding: 23px
 }
 
