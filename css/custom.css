@@ -28,7 +28,7 @@ img.custom-logo {
     border-radius: 3px
 }
 
-.page-title-section .overlay, .entry-meta .entry-date > a, .hc_scrollup, form.search-form input.search-submit, input[type="submit"], .woocommerce-product-search input[type="submit"] {
+.page-title-section .overlay, .entry-meta .entry-date > a, .hc_scrollup, form.search-form input.search-submit, input[type="submit"], .woocommerce-product-search input[type="submit"], .woocommerce-product-search input[type="submit"], button[type="submit"] {
 		background-color: #6d3e24;
 }
 
