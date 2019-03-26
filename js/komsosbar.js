@@ -1,4 +1,4 @@
-;window.CloudflareApps=window.Eager=window.CloudflareApps||window.Eager||{};window.CloudflareApps=window.CloudflareApps||{};CloudflareApps.siteId="65a15cbd2ef542873283b6c7729a59dd";CloudflareApps.installs=CloudflareApps.installs||{};;(function(){'use strict'
+;window.CloudflareApps=window.CloudflareApps||{};CloudflareApps.siteId="65a15cbd2ef542873283b6c7729a59dd";CloudflareApps.installs=CloudflareApps.installs||{};;(function(){'use strict'
 CloudflareApps.internal=CloudflareApps.internal||{}
 var errors=[]
 CloudflareApps.internal.placementErrors=errors
@@ -67,9 +67,9 @@ if(window.CloudflareApps&&CloudflareApps.proxy&&CloudflareApps.proxy.originalURL
 loc=url.host+url.path}
 for(var i=0;i<patterns.length;i++){var re=new RegExp(patterns[i],'i')
 if(re.test(loc)){return true}}
-return false}}());CloudflareApps.installs["IjfLFDN4HTWg"]={appId:"nt4L5NPJq1za",scope:{}};;CloudflareApps.installs["IjfLFDN4HTWg"].options={"blocks":[{"code":"\u003cstyle\u003e\n.komsosnetworkbar_links {\n    background: #23282d;\n    color: #fff;\n    padding: 10px 15px;\n}\n\n.komsosnetworkbar_links a {\n    color: #ccc;\n    padding-right: 10px;\n}\n\n.komsosnetworkbar_links a:hover, .komsosnetworkbar_links a:focus {\n    color: #fff;\n}\n\n.komsosnetworkbar_links img {\n    max-width: 15px;\n    display: inline-block;\n}\n\u003c/style\u003e","location":{"method":"append","selector":"head"}},{"code":"\u003cdiv class=\"komsosnetworkbar_links\"\u003e\u003ca href=\"https://www.komsos.org\"\u003e\u003cimg src=\"https://s2.googleusercontent.com/s2/favicons?sz=15\u0026domain=komsos.org\"\u003e Komsos.org\u003c/a\u003e\n\u003ca href=\"https://www.gerejagamping.org\"\u003e\u003cimg src=\"https://s2.googleusercontent.com/s2/favicons?sz=15\u0026domain=gerejagamping.org\"\u003e Gereja Gamping\u003c/a\u003e\u003c/div\u003e","location":{"method":"prepend","selector":"body"}}]};;CloudflareApps.installs["IjfLFDN4HTWg"].selectors={"blocks[0].location.selector":"head","blocks[1].location.selector":"body"};;if(CloudflareApps.matchPage(CloudflareApps.installs['IjfLFDN4HTWg'].URLPatterns)){(function(){'use strict'
+return false}}());CloudflareApps.installs["O61DirdeHOBg"]={appId:"nt4L5NPJq1za",scope:{}};;CloudflareApps.installs["O61DirdeHOBg"].options={"blocks":[{"code":"\u003cstyle\u003e\n.komsosnetworkbar_links {\n    background: #23282d;\n    color: #fff;\n    padding: 10px 15px;\n}\n\n.komsosnetworkbar_links a {\n    color: #ccc;\n    padding-right: 10px;\n}\n\n.komsosnetworkbar_links a:hover, .komsosnetworkbar_links a:focus {\n    color: #fff;\n}\n\n.komsosnetworkbar_links img {\n    max-width: 15px;\n    display: inline-block;\n}\n\u003c/style\u003e","location":{"method":"append","selector":"head"}},{"code":"\u003cdiv class=\"komsosnetworkbar_links\"\u003e\u003ca href=\"https://www.komsos.org\"\u003e\u003cimg src=\"https://cdn.staticaly.com/favicons/komsos.org\"\u003e Komsos.org\u003c/a\u003e\n\u003ca href=\"https://www.gerejagamping.org\"\u003e\u003cimg src=\"https://cdn.staticaly.com/favicons/gerejagamping.org\"\u003e Gereja Gamping\u003c/a\u003e\n\u003ca href=\"https://kasri.komsos.org\"\u003e\u003cimg src=\"https://cdn.staticaly.com/favicons/kasri.komsos.org\"\u003e KASRI\u003c/a\u003e\u003c/div\u003e","location":{"method":"prepend","selector":"body"}}]};;CloudflareApps.installs["O61DirdeHOBg"].selectors={"blocks[0].location.selector":"head","blocks[1].location.selector":"body"};;if(CloudflareApps.matchPage(CloudflareApps.installs['O61DirdeHOBg'].URLPatterns)){(function(){'use strict'
 if(!document.addEventListener)return
-var options=CloudflareApps.installs['IjfLFDN4HTWg'].options
+var options=CloudflareApps.installs['O61DirdeHOBg'].options
 var elements={}
 var prevElements={}
 var initialized=false;function updateElements(){options.blocks.forEach(function(block,index){var locationHash=[block.location.selector,block.location.method,index].join('!')
@@ -89,5 +89,5 @@ for(var hash in elements){if(!elements[hash].foundInBlocks){if(prevElements[hash
 delete prevElements[hash]}else{elements[hash].parentNode.removeChild(elements[hash])}
 delete elements[hash]}else{delete elements[hash].foundInBlocks}}}
 if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',function(){if(initialized==false){initialized=true;updateElements();}})}else{updateElements()}
-window.CloudflareApps.installs['IjfLFDN4HTWg'].scope={setOptions:function(nextOptions){options=nextOptions
+window.CloudflareApps.installs['O61DirdeHOBg'].scope={setOptions:function(nextOptions){options=nextOptions
 updateElements()}}}())}
